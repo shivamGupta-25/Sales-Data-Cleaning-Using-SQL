@@ -58,6 +58,8 @@ FROM Sales_Data_Cleaning.dbo.Sales
 Sales Data: The main dataset utilized for analysis is the "Sales.xlsx" file, encompassing comprehensive information regarding each sale conducted by the company across multiple months.
 
 ### Utilized SQL Queries
+The following SQL queries were employed for various data operations:
+
 - SELECT: Used for data retrieval and viewing
 - DELETE: Employed for eliminating redundant or erroneous data entries
 - Common Table Expressions (CTEs): Utilized for constructing temporary result sets, aiding in complex data manipulations.
